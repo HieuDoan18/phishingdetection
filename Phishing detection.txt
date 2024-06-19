@@ -1,0 +1,19 @@
+- đường dẫn rút gọn -> redirect sang 1 trang lừa đảo
+- đường dẫn giả mạo -> lừa đảo
+- đường dẫn nhìn bình thường -> lừa đảo
+	+ lấy thông tin html trang đấy -> phân tích
+	+ lấy tất cả ảnh trong trang hiện tại -> phân tích
+	+ thu thập hết đường dẫn trong web
+
+- Capture màn hình -> phân tích (so sánh giao diện, đọc chữ từ ảnh,...)
+
+
+Dataset
+
+URL thật
+Lấy toàn bộ thông tin về html (ưu tiên về text)
+Lấy toàn bộ đường dẫn có trong trang
+Lấy toàn bộ ảnh có trong trang
+Capture màn hình trang
+
+Tìm hiểu Selenium
