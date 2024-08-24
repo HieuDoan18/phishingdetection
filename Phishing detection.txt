@@ -17,3 +17,11 @@ Lấy toàn bộ ảnh có trong trang
 Capture màn hình trang
 
 Tìm hiểu Selenium
+
+
+--------------------------------------------------------------------------
+lấy phish link : https://phishtank.org/phish_archive.php
+
+# chay chrome
+cd C:\Program Files\Google\Chrome\Application
+chrome.exe --remote-debugging-port=1559
